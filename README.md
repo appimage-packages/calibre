@@ -1,2 +1,2 @@
 # Calibre
-Recipe file for Calibre.
+APPIMAGE Recipe files for Calibre.
